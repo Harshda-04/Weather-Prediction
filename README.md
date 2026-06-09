@@ -54,9 +54,6 @@ Weather-Prediction/
 ├── weather_model.pkl
 ├── requirements.txt
 ├── README.md
-│
-├── data/
-├── images/
 ├── notebooks/
 
 ---
