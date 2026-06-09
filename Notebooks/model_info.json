@@ -1,0 +1,9 @@
+{
+    "model_type": "RandomForestRegressor",
+    "r2_score": 0.94,
+    "features_used": [
+        "temperature",
+        "humidity",
+        "wind_speed"
+    ]
+}
